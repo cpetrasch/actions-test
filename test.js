@@ -1,4 +1,4 @@
-const url = "https://berufemap.de/verify_events/input.json"; // anpassen!
+const url = "https://berufemap.de/verify_events/input.json"; // anpassen!!
 
 async function run() {
     console.log("Rufe Strato-Server auf:", url);
